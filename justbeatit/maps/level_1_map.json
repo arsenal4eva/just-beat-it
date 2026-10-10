@@ -1,0 +1,25 @@
+{
+  "name": "Level 1 - Warm Up",
+  "fall_speed": 420.0,
+  "spawn_y": -100.0,
+  "notes": [
+	{ "time": 1.0, "dir": "left" },
+	{ "time": 1.6, "dir": "up" },
+	{ "time": 2.2, "dir": "down" },
+	{ "time": 2.8, "dir": "right" },
+	{ "time": 3.6, "dir": "left" },
+	{ "time": 4.1, "dir": "left" },
+	{ "time": 4.6, "dir": "up" },
+	{ "time": 5.2, "dir": "right" },
+	{ "time": 5.8, "dir": "down" },
+	{ "time": 6.4, "dir": "up" },
+	{ "time": 7.0, "dir": "left" },
+	{ "time": 7.5, "dir": "right" },
+	{ "time": 8.0, "dir": "down" },
+	{ "time": 8.5, "dir": "up" },
+	{ "time": 9.2, "dir": "right" },
+	{ "time": 9.8, "dir": "left" },
+	{ "time": 10.4, "dir": "down" },
+	{ "time": 11.0, "dir": "up" }
+  ]
+}

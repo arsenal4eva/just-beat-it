@@ -1,0 +1,64 @@
+{
+  "levels": [
+	{
+	  "id": "level_1",
+	  "title": "Level 1 - Warm Up (100 BPM)",
+	  "scene": "res://level_1.tscn",
+	  "song": "res://music/level_1.wav",
+	  "bpm": 100,
+	  "difficulties": {
+		"easy": "res://maps/level_1_easy.json",
+		"normal": "res://maps/level_1_normal.json",
+		"hard": "res://maps/level_1_hard.json"
+	  }
+	},
+	{
+	  "id": "level_2",
+	  "title": "Level 2 - Speed Up (120 BPM)",
+	  "scene": "res://level_1.tscn",
+	  "song": "res://music/level_2.wav",
+	  "bpm": 120,
+	  "difficulties": {
+		"easy": "res://maps/level_2_easy.json",
+		"normal": "res://maps/level_2_normal.json",
+		"hard": "res://maps/level_2_hard.json"
+	  }
+	},
+	{
+	  "id": "level_3",
+	  "title": "Level 3 (117.5 BPM)",
+	  "scene": "res://level_1.tscn",
+	  "song": "res://music/level_3.mp3",
+	  "bpm": 117.5,
+	  "difficulties": {
+		"easy": "res://maps/level_3_easy.json",
+		"normal": "res://maps/level_3_normal.json",
+		"hard": "res://maps/level_3_hard.json"
+	  }
+	},
+	{
+	  "id": "level_4",
+	  "title": "Level 4 (89.1 BPM)",
+	  "scene": "res://level_1.tscn",
+	  "song": "res://music/level_4.mp3",
+	  "bpm": 89.1,
+	  "difficulties": {
+		"easy": "res://maps/level_4_easy.json",
+		"normal": "res://maps/level_4_normal.json",
+		"hard": "res://maps/level_4_hard.json"
+	  }
+	},
+	{
+	  "id": "level_5",
+	  "title": "Level 5 (129.2 BPM)",
+	  "scene": "res://level_1.tscn",
+	  "song": "res://music/level_5.mp3",
+	  "bpm": 129.2,
+	  "difficulties": {
+		"easy": "res://maps/level_5_easy.json",
+		"normal": "res://maps/level_5_normal.json",
+		"hard": "res://maps/level_5_hard.json"
+	  }
+	}
+  ]
+}

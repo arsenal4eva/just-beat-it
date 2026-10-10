@@ -1,0 +1,434 @@
+{
+  "name": "Level 1 - Warm Up (Normal)",
+  "fall_speed": 450.0,
+  "spawn_y": -100.0,
+  "music": "res://music/level_1.wav",
+  "music_volume_db": 0.0,
+  "music_delay": 1.0,
+  "notes": [
+    {
+      "time": 1.5,
+      "dir": "down"
+    },
+    {
+      "time": 1.8,
+      "dir": "up"
+    },
+    {
+      "time": 2.1,
+      "dir": "right"
+    },
+    {
+      "time": 2.4,
+      "dir": "up"
+    },
+    {
+      "time": 2.7,
+      "dir": "down"
+    },
+    {
+      "time": 3.0,
+      "dir": "down"
+    },
+    {
+      "time": 3.3,
+      "dir": "down"
+    },
+    {
+      "time": 3.6,
+      "dir": "up"
+    },
+    {
+      "time": 3.69,
+      "dir": "left"
+    },
+    {
+      "time": 3.9,
+      "dir": "right"
+    },
+    {
+      "time": 4.2,
+      "dir": "right"
+    },
+    {
+      "time": 4.29,
+      "dir": "up"
+    },
+    {
+      "time": 4.5,
+      "dir": "down"
+    },
+    {
+      "time": 4.8,
+      "dir": "up"
+    },
+    {
+      "time": 5.1,
+      "dir": "right"
+    },
+    {
+      "time": 5.4,
+      "dir": "right"
+    },
+    {
+      "time": 5.7,
+      "dir": "left"
+    },
+    {
+      "time": 6.0,
+      "dir": "right"
+    },
+    {
+      "time": 6.3,
+      "dir": "up"
+    },
+    {
+      "time": 6.6,
+      "dir": "left"
+    },
+    {
+      "time": 6.9,
+      "dir": "down"
+    },
+    {
+      "time": 7.2,
+      "dir": "down"
+    },
+    {
+      "time": 7.5,
+      "dir": "right"
+    },
+    {
+      "time": 7.8,
+      "dir": "left"
+    },
+    {
+      "time": 8.1,
+      "dir": "right"
+    },
+    {
+      "time": 8.4,
+      "dir": "right"
+    },
+    {
+      "time": 8.7,
+      "dir": "down"
+    },
+    {
+      "time": 8.79,
+      "dir": "down"
+    },
+    {
+      "time": 9.0,
+      "dir": "up"
+    },
+    {
+      "time": 9.3,
+      "dir": "down"
+    },
+    {
+      "time": 9.6,
+      "dir": "right"
+    },
+    {
+      "time": 9.9,
+      "dir": "right"
+    },
+    {
+      "time": 10.2,
+      "dir": "up"
+    },
+    {
+      "time": 10.29,
+      "dir": "up"
+    },
+    {
+      "time": 10.5,
+      "dir": "left"
+    },
+    {
+      "time": 10.59,
+      "dir": "right"
+    },
+    {
+      "time": 10.8,
+      "dir": "up"
+    },
+    {
+      "time": 11.1,
+      "dir": "down"
+    },
+    {
+      "time": 11.4,
+      "dir": "up"
+    },
+    {
+      "time": 11.7,
+      "dir": "right"
+    },
+    {
+      "time": 12.0,
+      "dir": "right"
+    },
+    {
+      "time": 12.3,
+      "dir": "down"
+    },
+    {
+      "time": 12.6,
+      "dir": "left"
+    },
+    {
+      "time": 12.69,
+      "dir": "down"
+    },
+    {
+      "time": 12.9,
+      "dir": "up"
+    },
+    {
+      "time": 13.2,
+      "dir": "down"
+    },
+    {
+      "time": 13.5,
+      "dir": "right"
+    },
+    {
+      "time": 13.8,
+      "dir": "down"
+    },
+    {
+      "time": 14.1,
+      "dir": "up"
+    },
+    {
+      "time": 14.4,
+      "dir": "left"
+    },
+    {
+      "time": 14.7,
+      "dir": "right"
+    },
+    {
+      "time": 15.0,
+      "dir": "left"
+    },
+    {
+      "time": 15.3,
+      "dir": "down"
+    },
+    {
+      "time": 15.6,
+      "dir": "down"
+    },
+    {
+      "time": 15.9,
+      "dir": "right"
+    },
+    {
+      "time": 16.2,
+      "dir": "right"
+    },
+    {
+      "time": 16.5,
+      "dir": "down"
+    },
+    {
+      "time": 16.8,
+      "dir": "right"
+    },
+    {
+      "time": 17.1,
+      "dir": "up"
+    },
+    {
+      "time": 17.4,
+      "dir": "down"
+    },
+    {
+      "time": 17.7,
+      "dir": "down"
+    },
+    {
+      "time": 18.0,
+      "dir": "down"
+    },
+    {
+      "time": 18.3,
+      "dir": "up"
+    },
+    {
+      "time": 18.6,
+      "dir": "right"
+    },
+    {
+      "time": 18.9,
+      "dir": "down"
+    },
+    {
+      "time": 19.2,
+      "dir": "right"
+    },
+    {
+      "time": 19.5,
+      "dir": "up"
+    },
+    {
+      "time": 19.59,
+      "dir": "left"
+    },
+    {
+      "time": 19.8,
+      "dir": "down"
+    },
+    {
+      "time": 20.1,
+      "dir": "down"
+    },
+    {
+      "time": 20.4,
+      "dir": "up"
+    },
+    {
+      "time": 20.7,
+      "dir": "down"
+    },
+    {
+      "time": 21.0,
+      "dir": "left"
+    },
+    {
+      "time": 21.3,
+      "dir": "up"
+    },
+    {
+      "time": 21.39,
+      "dir": "left"
+    },
+    {
+      "time": 21.6,
+      "dir": "down"
+    },
+    {
+      "time": 21.9,
+      "dir": "left"
+    },
+    {
+      "time": 22.2,
+      "dir": "up"
+    },
+    {
+      "time": 22.29,
+      "dir": "down"
+    },
+    {
+      "time": 22.5,
+      "dir": "right"
+    },
+    {
+      "time": 22.8,
+      "dir": "up"
+    },
+    {
+      "time": 23.1,
+      "dir": "right"
+    },
+    {
+      "time": 23.4,
+      "dir": "down"
+    },
+    {
+      "time": 23.7,
+      "dir": "down"
+    },
+    {
+      "time": 24.0,
+      "dir": "right"
+    },
+    {
+      "time": 24.3,
+      "dir": "right"
+    },
+    {
+      "time": 24.6,
+      "dir": "up"
+    },
+    {
+      "time": 24.9,
+      "dir": "left"
+    },
+    {
+      "time": 25.2,
+      "dir": "up"
+    },
+    {
+      "time": 25.5,
+      "dir": "up"
+    },
+    {
+      "time": 25.8,
+      "dir": "up"
+    },
+    {
+      "time": 26.1,
+      "dir": "left"
+    },
+    {
+      "time": 26.4,
+      "dir": "down"
+    },
+    {
+      "time": 26.7,
+      "dir": "up"
+    },
+    {
+      "time": 27.0,
+      "dir": "right"
+    },
+    {
+      "time": 27.3,
+      "dir": "right"
+    },
+    {
+      "time": 27.6,
+      "dir": "left"
+    },
+    {
+      "time": 27.9,
+      "dir": "left"
+    },
+    {
+      "time": 28.2,
+      "dir": "down"
+    },
+    {
+      "time": 28.5,
+      "dir": "right"
+    },
+    {
+      "time": 28.8,
+      "dir": "down"
+    },
+    {
+      "time": 28.89,
+      "dir": "down"
+    },
+    {
+      "time": 29.1,
+      "dir": "right"
+    },
+    {
+      "time": 29.4,
+      "dir": "left"
+    },
+    {
+      "time": 29.49,
+      "dir": "down"
+    },
+    {
+      "time": 29.7,
+      "dir": "up"
+    }
+  ]
+}

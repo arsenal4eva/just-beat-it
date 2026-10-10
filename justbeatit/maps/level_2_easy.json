@@ -1,0 +1,238 @@
+{
+  "name": "Level 2 - Speed Up (Easy)",
+  "fall_speed": 380.0,
+  "spawn_y": -100.0,
+  "music": "res://music/level_2.wav",
+  "music_volume_db": 0.0,
+  "music_delay": 1.0,
+  "notes": [
+    {
+      "time": 1.5,
+      "dir": "left"
+    },
+    {
+      "time": 2.0,
+      "dir": "right"
+    },
+    {
+      "time": 2.5,
+      "dir": "right"
+    },
+    {
+      "time": 3.0,
+      "dir": "right"
+    },
+    {
+      "time": 3.5,
+      "dir": "down"
+    },
+    {
+      "time": 4.0,
+      "dir": "up"
+    },
+    {
+      "time": 4.5,
+      "dir": "left"
+    },
+    {
+      "time": 5.0,
+      "dir": "left"
+    },
+    {
+      "time": 5.5,
+      "dir": "up"
+    },
+    {
+      "time": 6.0,
+      "dir": "right"
+    },
+    {
+      "time": 6.5,
+      "dir": "left"
+    },
+    {
+      "time": 7.0,
+      "dir": "down"
+    },
+    {
+      "time": 7.5,
+      "dir": "right"
+    },
+    {
+      "time": 8.0,
+      "dir": "right"
+    },
+    {
+      "time": 8.5,
+      "dir": "right"
+    },
+    {
+      "time": 9.0,
+      "dir": "down"
+    },
+    {
+      "time": 9.5,
+      "dir": "up"
+    },
+    {
+      "time": 10.0,
+      "dir": "down"
+    },
+    {
+      "time": 10.5,
+      "dir": "down"
+    },
+    {
+      "time": 11.0,
+      "dir": "left"
+    },
+    {
+      "time": 11.5,
+      "dir": "left"
+    },
+    {
+      "time": 12.0,
+      "dir": "left"
+    },
+    {
+      "time": 12.5,
+      "dir": "up"
+    },
+    {
+      "time": 13.0,
+      "dir": "down"
+    },
+    {
+      "time": 13.5,
+      "dir": "right"
+    },
+    {
+      "time": 14.0,
+      "dir": "up"
+    },
+    {
+      "time": 14.5,
+      "dir": "left"
+    },
+    {
+      "time": 15.0,
+      "dir": "right"
+    },
+    {
+      "time": 15.5,
+      "dir": "down"
+    },
+    {
+      "time": 16.0,
+      "dir": "down"
+    },
+    {
+      "time": 16.5,
+      "dir": "left"
+    },
+    {
+      "time": 17.0,
+      "dir": "up"
+    },
+    {
+      "time": 17.5,
+      "dir": "right"
+    },
+    {
+      "time": 18.0,
+      "dir": "down"
+    },
+    {
+      "time": 18.5,
+      "dir": "left"
+    },
+    {
+      "time": 19.0,
+      "dir": "up"
+    },
+    {
+      "time": 19.5,
+      "dir": "left"
+    },
+    {
+      "time": 20.0,
+      "dir": "down"
+    },
+    {
+      "time": 20.5,
+      "dir": "down"
+    },
+    {
+      "time": 21.0,
+      "dir": "left"
+    },
+    {
+      "time": 21.5,
+      "dir": "right"
+    },
+    {
+      "time": 22.0,
+      "dir": "right"
+    },
+    {
+      "time": 22.5,
+      "dir": "up"
+    },
+    {
+      "time": 23.0,
+      "dir": "down"
+    },
+    {
+      "time": 23.5,
+      "dir": "left"
+    },
+    {
+      "time": 24.0,
+      "dir": "right"
+    },
+    {
+      "time": 24.5,
+      "dir": "up"
+    },
+    {
+      "time": 25.0,
+      "dir": "up"
+    },
+    {
+      "time": 25.5,
+      "dir": "down"
+    },
+    {
+      "time": 26.0,
+      "dir": "right"
+    },
+    {
+      "time": 26.5,
+      "dir": "up"
+    },
+    {
+      "time": 27.0,
+      "dir": "right"
+    },
+    {
+      "time": 27.5,
+      "dir": "down"
+    },
+    {
+      "time": 28.0,
+      "dir": "up"
+    },
+    {
+      "time": 28.5,
+      "dir": "left"
+    },
+    {
+      "time": 29.0,
+      "dir": "left"
+    },
+    {
+      "time": 29.5,
+      "dir": "right"
+    }
+  ]
+}
