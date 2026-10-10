@@ -16,6 +16,10 @@ Use your left/right/up/down arrows and click the corresponding arrow when the ar
 Try to time the click exactly when the arrow falls into the outline.\
 Score is determined by how good your performance was, number of late/early/good/great/perfect arrows.
 
+## Demo link
+
+https://arsenal4eva.itch.io/just-beat-it
+
 Have fun!
 
 
